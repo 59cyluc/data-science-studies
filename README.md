@@ -1,4 +1,4 @@
-## Jupyter 🚀
+## virtual environment && jupyter 🚀
 ### Step 1
 
 Create a virtual environment to install the necessary libraries.
